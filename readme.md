@@ -4,7 +4,7 @@ A tool that generates custom attack patterns for the [Bad Time Simulator](https:
 
 ## How to Use
 
-1. Go to https://i-am-albert.github.io/ai-sans/
+1. Go to https://i-am-albert.github.io/ai-sans-attack-creator/
 2. Enter a prompt describing the attack you want to create
 3. Click "Generate Attack"
 4. Click "Download Attack"
